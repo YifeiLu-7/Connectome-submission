@@ -1,0 +1,15 @@
+# build output
+*.node
+*.sha256
+node_modules/
+# data and results (not part of this repository)
+*.json.gz
+*.csv
+circuit*.json
+skeletons/
+results/
+peaks/
+traces/
+claims/
+sums/
+logs/

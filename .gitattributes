@@ -1,0 +1,2 @@
+# keep LF line endings everywhere (the shell scripts must run on Linux clusters)
+* text=auto eol=lf
